@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014127203991",
+    "project_id": "autismapp-c45fb",
+    "storage_bucket": "autismapp-c45fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014127203991:android:b626c4104a7b4d98d13bd2",
+        "android_client_info": {
+          "package_name": "com.company.autism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANqDezkR0H7fqgJcWmSfFx4-3ocj8PIHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
